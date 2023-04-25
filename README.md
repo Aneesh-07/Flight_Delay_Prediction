@@ -22,7 +22,9 @@ I would highly recommend that before the hack night you have some kind of toolch
 3️⃣ `Pandas`<br>
 4️⃣ `NumPy`<br>
 5️⃣ `Swaborn`<br>
-6️⃣ An environment to work in - something like `Jupyter` or `colab`<br>
+6️⃣ `Gradio`<br>
+
+An environment to work in - something like `Jupyter` or `colab`<br>
 
 For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
 
